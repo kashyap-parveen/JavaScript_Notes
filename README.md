@@ -1,5 +1,42 @@
 # JavaScript_Notes
+
+### heading
 ```javascript
+content
+
+```
+### .prettierignore
+```javascript
+/.vscode
+/node_modules
+./dist
+
+*.env
+.env
+.env.*
+
+```
+
+### .prettierrc
+```javascript
+{
+    "singleQuote": false,
+    "bracketSpacing": true,
+    "tabWidth": 2,
+    "trailingComma": "es5",
+    "semi": true
+}
+
+```
+
+
+
+
+
+
+
+
+
 ## redux-toolkit
 ##### createSlice
 ```javascript
