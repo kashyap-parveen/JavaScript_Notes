@@ -43,5 +43,9 @@ export const Store = configureStore({
 })
 
 ```
+## cmd for make files & folders
+```javascript
+npx mkdirp controllers db middlewares models routes utils
+npx touch app.js index.js constants.js
+
 ```
-Notes
