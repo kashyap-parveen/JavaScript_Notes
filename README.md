@@ -84,5 +84,7 @@ export const Store = configureStore({
 ```javascript
 npx mkdirp controllers db middlewares models routes utils
 npx touch app.js index.js constants.js
+# NPM
+npm install @reduxjs/toolkit react-redux react-router-dom
 
 ```
