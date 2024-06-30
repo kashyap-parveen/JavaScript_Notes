@@ -1,43 +1,10 @@
-## Parveen Kashyap
-
-
-### JavaScript_Notes
+## JavaScript_Notes
 
 ### heading
 ```javascript
 content
 
 ```
-### .prettierignore
-```javascript
-/.vscode
-/node_modules
-./dist
-
-*.env
-.env
-.env.*
-
-```
-
-### .prettierrc
-```javascript
-{
-    "singleQuote": false,
-    "bracketSpacing": true,
-    "tabWidth": 2,
-    "trailingComma": "es5",
-    "semi": true
-}
-
-```
-
-
-
-
-
-
-
 
 
 ## redux-toolkit
@@ -89,5 +56,43 @@ npx mkdirp controllers db middlewares models routes utils
 npx touch app.js index.js constants.js
 # NPM
 npm install @reduxjs/toolkit react-redux react-router-dom
+```
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### .prettierignore
+```javascript
+/.vscode
+/node_modules
+./dist
+
+*.env
+.env
+.env.*
+```
+
+### .prettierrc
+```javascript
+{
+    "singleQuote": false,
+    "bracketSpacing": true,
+    "tabWidth": 2,
+    "trailingComma": "es5",
+    "semi": true
+}
 ```
